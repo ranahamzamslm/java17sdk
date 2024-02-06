@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13bcd8ad-8cfb-4827-a9f9-68c2451d78ef" name="Changes" comment="Readme updated Additional Resources added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ZG7eoFpWZ3MVkO7jter2rsUTCU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;otp__hamza&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/sdk-java/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.26551723&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\sdk-java\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sdk-java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EmailVerifyTest">
+    <configuration name="Mslm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.mslm.mslm.Mslm" />
+      <module name="mslm-java-sdk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.mslm.mslm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Otp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.mslm.otp.Otp" />
+      <module name="mslm-java-sdk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.mslm.otp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailVerifyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mslm-java-sdk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmailVerifyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailVerifyTest.testEmailVerifySvFake" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mslm-java-sdk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmailVerifyTest" />
+      <option name="METHOD_NAME" value="testEmailVerifySvFake" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailVerifyTest.testEmailVerifySvMalformed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mslm-java-sdk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmailVerifyTest" />
+      <option name="METHOD_NAME" value="testEmailVerifySvMalformed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmailVerifyTest" />
+        <item itemvalue="Application.Mslm" />
+        <item itemvalue="JUnit.EmailVerifyTest.testEmailVerifySvMalformed" />
+        <item itemvalue="JUnit.EmailVerifyTest.testEmailVerifySvFake" />
+        <item itemvalue="Application.Otp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13bcd8ad-8cfb-4827-a9f9-68c2451d78ef" name="Changes" comment="" />
+      <created>1702036660070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702036660070</updated>
+    </task>
+    <task id="LOCAL-00001" summary="OTP Request Url issue fixed">
+      <option name="closed" value="true" />
+      <created>1703060696087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703060696087</updated>
+    </task>
+    <task id="LOCAL-00002" summary="OTP example usage added">
+      <option name="closed" value="true" />
+      <created>1704085996998</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704085996998</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test cases added">
+      <option name="closed" value="true" />
+      <created>1704716224430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704716224430</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Code cleaned: Removed unused functions">
+      <option name="closed" value="true" />
+      <created>1704717017216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704717017216</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Otp added&#10;Email test cases added">
+      <option name="closed" value="true" />
+      <created>1704719253766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704719253766</updated>
+    </task>
+    <task id="LOCAL-00006" summary="linting: removed extra spaces">
+      <option name="closed" value="true" />
+      <created>1704719684633</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704719684633</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Code improved, Readme updated">
+      <option name="closed" value="true" />
+      <created>1704803804175</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704803804175</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Okhttp version upgraded, main function removed">
+      <option name="closed" value="true" />
+      <created>1704875544136</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704875544136</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Read me updated">
+      <option name="closed" value="true" />
+      <created>1704882513420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704882513420</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Read me updated, extra lines removed, style improved">
+      <option name="closed" value="true" />
+      <created>1706522249502</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706522249502</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Read me updated, linting">
+      <option name="closed" value="true" />
+      <created>1706525698495</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706525698495</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Read me code blocks indention improved">
+      <option name="closed" value="true" />
+      <created>1706528773169</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706528773169</updated>
+    </task>
+    <task id="LOCAL-00013" summary="generic reqAndResp function added in lib&#10;Readme updated&#10;extra new lines removed from files">
+      <option name="closed" value="true" />
+      <created>1706608244563</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706608244563</updated>
+    </task>
+    <task id="LOCAL-00014" summary="extra new lines removed from test class">
+      <option name="closed" value="true" />
+      <created>1706608420827</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706608420827</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Readme updated Additional Resources added">
+      <option name="closed" value="true" />
+      <created>1706686821402</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706686821402</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/otp" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OTP Request Url issue fixed" />
+    <MESSAGE value="OTP example usage added" />
+    <MESSAGE value="Test cases added" />
+    <MESSAGE value="Code cleaned: Removed unused functions" />
+    <MESSAGE value="Otp added&#10;Email test cases added" />
+    <MESSAGE value="linting: removed extra spaces" />
+    <MESSAGE value="Code improved, Readme updated" />
+    <MESSAGE value="Okhttp version upgraded, main function removed" />
+    <MESSAGE value="Read me updated" />
+    <MESSAGE value="Read me updated, extra lines removed, style improved" />
+    <MESSAGE value="Read me updated, linting" />
+    <MESSAGE value="Read me code blocks indention improved" />
+    <MESSAGE value="generic reqAndResp function added in lib&#10;Readme updated&#10;extra new lines removed from files" />
+    <MESSAGE value="extra new lines removed from test class" />
+    <MESSAGE value="Readme updated Additional Resources added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme updated Additional Resources added" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
